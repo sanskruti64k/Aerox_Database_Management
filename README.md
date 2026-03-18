@@ -13,7 +13,7 @@ Without a robust database system, airlines face:
 
 4. Regulatory compliance risks
 
-5.Inability to analyze performance metrics
+5. Inability to analyze performance metrics
 
 ---
 
